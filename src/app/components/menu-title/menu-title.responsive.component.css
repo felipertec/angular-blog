@@ -1,0 +1,33 @@
+@media screen and (max-width: 600px){
+    .container__menu-title{
+       width: 35rem;
+    }
+    
+    .container__menu-title > h1{
+        font-size: 30px;
+        color: red;
+        justify-content: center;
+    }
+
+
+    .container__menu-title > hr{
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+}
+
+@media screen and (max-width: 380px){
+    .container__menu-title{
+       width: 29.4rem;
+    }
+    
+    .container__menu-title > h1{
+        font-size: 50px;
+    }
+
+
+    .container__menu-title > hr{
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+}
