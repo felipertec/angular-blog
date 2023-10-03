@@ -10,7 +10,7 @@ export class BigCardComponent {
   @Input()
   photoCover: string = ""
   @Input()
-  cardTitle: string = "NOVO HOMEM DE FERRO"
+  cardTitle: string = ""
   @Input()
   cardDescription: string = "Marvel anuncia novo filme do homem de ferro"
 
