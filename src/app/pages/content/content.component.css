@@ -26,3 +26,8 @@
 .content__description > p{
     color: rgb(198,197,197);
 }
+
+.content__description > p{
+    margin-top: 20px;
+    color: rgb(198,197,197);
+}
