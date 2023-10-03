@@ -12,7 +12,9 @@ export class BigCardComponent {
   @Input()
   cardTitle: string = ""
   @Input()
-  cardDescription: string = "Marvel anuncia novo filme do homem de ferro"
+  cardDescription: string = ""
+  @Input()
+  Id: string = "0"
 
   constructor() { }
 
